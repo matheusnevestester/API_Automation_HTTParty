@@ -1,0 +1,4 @@
+default: -p html_report
+
+### Reports ###
+html_report: --format pretty -f html -o reports/features_report.html
